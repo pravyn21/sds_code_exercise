@@ -1,0 +1,24 @@
+{
+    "data":[
+        {
+            "username":"mike",
+            "password":"user1"
+        },
+        {
+            "username":"john",
+            "password":"user2"
+        },
+        {
+            "username":"robb",
+            "password":"user3"
+        },
+        {
+            "username":"lisa",
+            "password":"user5"
+        },
+        {
+            "username":"alex",
+            "password":"user6"
+        }
+    ]
+}
